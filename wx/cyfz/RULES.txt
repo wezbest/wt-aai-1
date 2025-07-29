@@ -1,0 +1,6 @@
+Objective - Find only typos and grammatical corrections 
+
+1. Read only the documentation in the cys/ and find ONLY typos and grammatical errors and its describe its impact
+2. DO NOT MAKE CHANGES , draft a report in folder rpt/ with todays date and time appended. and inside the file , the header should the query which i gave, todays date and time , and the model which was used
+3. Take particular care to no reference non existent things, and make sure to ingest all docs. 
+
