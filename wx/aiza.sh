@@ -54,6 +54,16 @@ rov_auth() {
     eval "${co2}"
 }
 
+# ////////////////////////////////////// Opencode.ai //////////////////////////////////////
+
+opencode_i() {
+    hea1 "Installing Opencode.ai CLI"
+    co1="curl -fsSL https://opencode.ai/install | bash"
+    echo -e "${GREEN}Executing: $co1${NC}"
+    eval "$co1"
+}
+
+
 # ////////////////////////////////////// UV Section //////////////////////////////////////
 
 # UV Setup
@@ -98,5 +108,6 @@ rm_venv_find() {
 }
 
 # Esxecution
-gc_c
-rov_i
+# gc_c
+# rov_i
+opencode_i
