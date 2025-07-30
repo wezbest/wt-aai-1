@@ -1,6 +1,0 @@
-# Objective - Make an impactful PR to the repo with minimal changes 
-
-1. Examine the foder prt/ , find out if there is any kind of impactful change I can make , ensuring that no code needs to be deleted, and no library or file to be added 
-2. DO NOT MAKE CHANGES, only generate an report in a folder alled rpt/ , explaining the change and its impact , the report file should have todays date and time appended , and a header with the query and the model used
-3. Dont reference code that doesnt exist, dont make guesses, strictly read the code and make do the investigation
-\
