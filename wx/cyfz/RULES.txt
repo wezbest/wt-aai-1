@@ -1,0 +1,6 @@
+Object - Make suggestions for an impactful chage in the project directory ady/
+
+1. Examine the folder ady/ , suggest an impact change which I can make a pr for 
+2. DO NOT MAKE THE CHANGE , just make e report in the directory called RPZ/ , the report should have todays date and time appended to the file name, and teh markdown report should have a heading where the query asked , todays date and model used should be present , also explain the impact of the proposed change
+3. Dont invent non existent information. 
+4. Search the internet to improve your analysis
