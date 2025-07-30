@@ -7,6 +7,6 @@
 
 # Dirz
 
-|      Dir       |    What    |
-| :------------: | :--------: |
-| [`cyf`](./cyf) | Cyfz Stufs |
+|      Dir       |       What       |
+| :------------: | :--------------: |
+| [`opc`](./opc) | OpenCode Testing |
